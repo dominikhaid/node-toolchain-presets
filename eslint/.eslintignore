@@ -1,0 +1,15 @@
+**/*/node_modules
+**/*/.vscode
+**/*/.gitignore
+**/*/log
+**/*/images
+**/*/icons
+**/*.spec.js
+**/*/cypress/plugins
+**/*/cypress/support
+**/*/reportWebVitals.ts
+**/*/*.config.js
+**/*/reportWebVitals.js
+**/*/build
+**/*/out
+**/*/.git

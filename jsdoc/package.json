@@ -1,0 +1,10 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "better-docs": "^2.7.2",
+    "jdoc": "^0.2.0"
+  },
+  "scripts": {
+    "jsdoc": "jsdoc -c jsdoc.conf.json"
+  }
+}
