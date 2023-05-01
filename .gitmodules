@@ -1,0 +1,12 @@
+[submodule "babel/src"]
+	path = babel/src
+	url = https://github.com/dominikhaid/scratch-js.git
+[submodule "eslint/src"]
+	path = eslint/src
+	url = https://github.com/dominikhaid/scratch-js.git
+[submodule "jsdoc/src"]
+	path = jsdoc/src
+	url = https://github.com/dominikhaid/scratch-js.git
+[submodule "typescript/src"]
+	path = typescript/src
+	url = https://github.com/dominikhaid/scratch-ts.git
